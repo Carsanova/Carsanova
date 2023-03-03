@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Carsanova
-- 👀 I’m interested in decentralizing my professional life with distributed ledger
-- 🌱 I’m currently learning HTML / CSS / PHP
-- 💞️ I’m looking to collaborate on anythinng web3
-- 📫 How to reach me twitter
+- 👋 Hi, I’m Carson Wyndham
+- 👀 I’m interested in decentralized living
+- 🌱 I’m currently a freelance UI/UX designer
+- 💞️ I’m looking to collaborate on anything
+- 📫 How to reach me carson@carsonwyndham.com
 
 <!---
 Carsanova/Carsanova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
